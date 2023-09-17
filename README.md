@@ -1,2 +1,2 @@
 # IOSBootckampIlkOdev
-Kasım Adalan'ın Udemy üzerinden hazırlamış olduğu Bootcamp'in ilk gününün ilk ödevi. 
+Kasım Adalan'ın Udemy üzerinden hazırlamış olduğu Bootcamp'in ilk gününün ilk ödevi..
